@@ -1,0 +1,751 @@
+job_id,company_name,role,city,required_skills,min_exp,salary_range_low,salary_range_high
+J0001,Paytm,Full Stack Developer,Delhi,"Power BI, AWS, SQL",6,12.26,21.57
+J0002,SAP,Backend Engineer,Delhi,"C++, Java, Data Analysis",2,5.51,12.66
+J0003,Infosys,Frontend Developer,Bangalore,"Node.js, Deep Learning",8,17.95,27.37
+J0004,HCL,ML Engineer,Hyderabad,"Power BI, Node.js, Data Analysis, JavaScript",10,18.62,25.1
+J0005,Byju's,Software Developer,Bangalore,"Power BI, Machine Learning, SQL, Tableau, Java",9,13.1,22.38
+J0006,Google,Full Stack Developer,Hyderabad,"Data Analysis, Deep Learning",1,5.23,9.46
+J0007,Virtusa,DevOps Engineer,Pune,"Data Analysis, Kubernetes, SQL, Machine Learning, React, Node.js",5,9.96,19.76
+J0008,Accenture,ML Engineer,Delhi,"Tableau, Node.js, Data Analysis, C++, Deep Learning, JavaScript",0,3.0,7.49
+J0009,Google,Full Stack Developer,Bangalore,"SQL, Power BI",7,15.22,17.32
+J0010,Capgemini,Cloud Engineer,Bangalore,"Kubernetes, React",7,12.35,17.29
+J0011,Swiggy,Full Stack Developer,Mumbai,"Kubernetes, Deep Learning, Python, JavaScript, Data Analysis",2,8.01,13.69
+J0012,Capgemini,Full Stack Developer,Bangalore,"Node.js, React, Data Analysis, Tableau, Machine Learning",4,8.24,12.97
+J0013,Byju's,Software Developer,Bangalore,"Node.js, Python",5,10.29,14.36
+J0014,Paytm,Software Developer,Bangalore,"Java, Tableau, JavaScript, C++",4,10.21,15.83
+J0015,Mindtree,Data Analyst,Mumbai,"Kubernetes, JavaScript, Java",3,8.39,17.54
+J0016,Virtusa,Software Developer,Bangalore,"React, JavaScript, Docker, Deep Learning, SQL, Tableau",4,7.2,11.89
+J0017,Amazon,Data Analyst,Chennai,"AWS, JavaScript, Deep Learning",6,10.78,13.23
+J0018,Mindtree,Full Stack Developer,Delhi,"Java, Tableau, Deep Learning, C++",9,13.08,20.83
+J0019,Tech Mahindra,Software Developer,Delhi,"Power BI, Tableau",5,11.79,17.13
+J0020,Byju's,DevOps Engineer,Hyderabad,"JavaScript, Tableau, Machine Learning, Java, Python",0,3.0,7.78
+J0021,Amazon,DevOps Engineer,Pune,"Node.js, Machine Learning, AWS, React",10,19.94,26.66
+J0022,Deloitte,ML Engineer,Hyderabad,"Docker, Deep Learning",0,3.6,10.45
+J0023,Amazon,Backend Engineer,Bangalore,"Deep Learning, Tableau, Docker",6,12.13,15.91
+J0024,Swiggy,Data Analyst,Hyderabad,"React, Data Analysis, Tableau",8,16.48,22.18
+J0025,Capgemini,Software Developer,Pune,"AWS, Machine Learning, Java, Kubernetes",6,10.58,14.6
+J0026,Mindtree,Data Analyst,Chennai,"JavaScript, Java, C++, Data Analysis, Deep Learning",5,13.58,15.66
+J0027,SAP,Frontend Developer,Bangalore,"Deep Learning, Tableau, Kubernetes, SQL",6,11.35,20.24
+J0028,Microsoft,Software Developer,Chennai,"Node.js, Machine Learning, Java, Python, SQL",1,5.49,12.95
+J0029,Oracle,Cloud Engineer,Bangalore,"Python, SQL, Docker",7,14.14,16.45
+J0030,TCS,Backend Engineer,Bangalore,"Node.js, Java, Machine Learning, Deep Learning, Power BI, C++",7,14.58,21.01
+J0031,Virtusa,Frontend Developer,Bangalore,"Node.js, AWS, JavaScript",5,13.31,18.27
+J0032,Wipro,Software Developer,Mumbai,"Data Analysis, Deep Learning, Power BI, Machine Learning, Tableau",1,6.04,11.17
+J0033,Infosys,Backend Engineer,Hyderabad,"JavaScript, Machine Learning, Tableau, AWS, React",4,7.34,15.71
+J0034,Paytm,Full Stack Developer,Hyderabad,"SQL, Power BI",5,11.02,19.69
+J0035,Swiggy,Software Developer,Bangalore,"Kubernetes, Power BI",6,13.31,19.46
+J0036,Tech Mahindra,DevOps Engineer,Hyderabad,"Deep Learning, Power BI, SQL, Kubernetes",0,3.03,9.02
+J0037,Capgemini,Backend Engineer,Hyderabad,"Machine Learning, Deep Learning, Node.js, JavaScript, Kubernetes",1,3.8,9.6
+J0038,Tech Mahindra,DevOps Engineer,Pune,"SQL, Deep Learning, Data Analysis, Docker",2,6.58,12.0
+J0039,Byju's,Software Developer,Bangalore,"Node.js, Docker",7,13.12,19.43
+J0040,Swiggy,Backend Engineer,Mumbai,"Docker, Tableau",5,11.22,20.02
+J0041,Freshworks,Frontend Developer,Bangalore,"Machine Learning, SQL, Java",8,13.45,17.86
+J0042,Google,Backend Engineer,Chennai,"Docker, AWS",7,11.5,19.45
+J0043,Cognizant,Frontend Developer,Bangalore,"Java, Kubernetes",10,15.11,21.28
+J0044,TCS,Backend Engineer,Pune,"Docker, JavaScript",3,8.37,18.07
+J0045,Microsoft,Frontend Developer,Mumbai,"Docker, JavaScript",6,13.09,19.14
+J0046,Jio,ML Engineer,Pune,"Machine Learning, Python, C++, JavaScript, Tableau",7,16.77,26.58
+J0047,Microsoft,Full Stack Developer,Bangalore,"AWS, Java, Kubernetes, Power BI, React, Docker",4,8.98,13.31
+J0048,TCS,Full Stack Developer,Hyderabad,"Machine Learning, Tableau",4,9.88,12.03
+J0049,Deloitte,Full Stack Developer,Bangalore,"C++, Java",8,16.39,21.71
+J0050,Swiggy,Cloud Engineer,Delhi,"Kubernetes, Docker, C++",4,9.91,15.7
+J0051,Wipro,ML Engineer,Bangalore,"Java, Deep Learning, Kubernetes, Node.js",2,5.94,8.08
+J0052,Zomato,Backend Engineer,Bangalore,"Node.js, Machine Learning, Java, Power BI",9,14.67,19.22
+J0053,Byju's,Full Stack Developer,Bangalore,"Machine Learning, Node.js, Deep Learning, Java",8,14.06,23.93
+J0054,IBM,Full Stack Developer,Mumbai,"Machine Learning, Deep Learning",1,6.1,14.45
+J0055,Freshworks,Frontend Developer,Mumbai,"Kubernetes, Machine Learning, Tableau, Docker",8,12.63,18.64
+J0056,Infosys,Full Stack Developer,Pune,"Tableau, Java, React, Node.js, Deep Learning",10,15.81,21.93
+J0057,Byju's,Backend Engineer,Bangalore,"JavaScript, SQL",10,18.89,24.66
+J0058,Google,ML Engineer,Delhi,"Node.js, SQL, React, Machine Learning, Tableau, Data Analysis",9,16.61,23.5
+J0059,IBM,Data Analyst,Pune,"Tableau, Data Analysis, C++",9,15.23,21.07
+J0060,Amazon,Backend Engineer,Chennai,"Node.js, C++",9,18.1,24.78
+J0061,Mindtree,ML Engineer,Bangalore,"Java, Docker",6,14.97,17.85
+J0062,Virtusa,ML Engineer,Bangalore,"Tableau, Data Analysis, AWS, SQL, Docker, React",4,9.73,17.07
+J0063,Amazon,Frontend Developer,Delhi,"JavaScript, Kubernetes, SQL, Python, Java, React",5,12.32,17.15
+J0064,Byju's,DevOps Engineer,Delhi,"Data Analysis, Deep Learning, Machine Learning, Docker",6,13.35,15.71
+J0065,Jio,Frontend Developer,Bangalore,"Kubernetes, Java, JavaScript, Python, Machine Learning",10,19.13,29.11
+J0066,Mindtree,ML Engineer,Bangalore,"Java, Node.js, Kubernetes",8,16.59,25.86
+J0067,Oracle,Cloud Engineer,Pune,"Power BI, Deep Learning",1,6.16,8.59
+J0068,Virtusa,Software Developer,Delhi,"Machine Learning, Kubernetes, Node.js",10,17.65,20.3
+J0069,Zomato,ML Engineer,Delhi,"AWS, React, Data Analysis",5,11.06,16.44
+J0070,Deloitte,Backend Engineer,Hyderabad,"Node.js, Docker, Deep Learning, C++",6,11.29,15.69
+J0071,Oracle,Backend Engineer,Pune,"Node.js, Data Analysis, React, SQL",1,5.34,8.05
+J0072,Wipro,Frontend Developer,Mumbai,"Deep Learning, C++",8,13.45,18.26
+J0073,Infosys,DevOps Engineer,Delhi,"Python, SQL, Deep Learning, JavaScript, Docker, AWS",5,12.99,18.64
+J0074,SAP,Backend Engineer,Hyderabad,"Power BI, Deep Learning, Java, AWS, Tableau, Docker",0,3.46,12.88
+J0075,Virtusa,DevOps Engineer,Delhi,"Python, Kubernetes, C++, Deep Learning, Power BI",1,4.08,8.35
+J0076,SAP,Data Analyst,Bangalore,"Deep Learning, React, C++, Power BI, Machine Learning, Docker",8,13.46,21.75
+J0077,Wipro,Cloud Engineer,Bangalore,"AWS, Java, Machine Learning, Docker, C++, Tableau",5,10.27,17.07
+J0078,Flipkart,Software Developer,Delhi,"Docker, React, Python",2,5.42,10.46
+J0079,HCL,Backend Engineer,Mumbai,"Java, React, SQL, Tableau, Machine Learning",3,8.38,13.3
+J0080,Cognizant,Data Analyst,Pune,"JavaScript, AWS, Power BI, Data Analysis",8,12.22,18.95
+J0081,Zomato,Software Developer,Delhi,"Node.js, C++, JavaScript, Machine Learning, Docker, Python",1,5.9,14.12
+J0082,Freshworks,Software Developer,Bangalore,"React, Python",9,16.09,25.24
+J0083,Microsoft,Frontend Developer,Mumbai,"JavaScript, React, SQL, Python",4,11.74,20.88
+J0084,Cognizant,Backend Engineer,Delhi,"React, Python, SQL, Node.js, AWS",8,16.74,26.34
+J0085,Capgemini,ML Engineer,Hyderabad,"Docker, Java, Node.js, SQL, AWS, Python",2,6.85,12.87
+J0086,Deloitte,Cloud Engineer,Pune,"AWS, Node.js, React",0,3.83,9.02
+J0087,Zomato,Software Developer,Pune,"Power BI, Java, Docker, JavaScript, SQL",10,14.88,21.6
+J0088,Flipkart,Data Analyst,Bangalore,"Java, React, Deep Learning",8,17.6,21.5
+J0089,Accenture,Full Stack Developer,Bangalore,"Power BI, Tableau, Deep Learning, C++",7,12.31,17.37
+J0090,Mindtree,Cloud Engineer,Pune,"Python, Java, Node.js, Data Analysis",3,7.04,12.62
+J0091,Cognizant,Software Developer,Delhi,"Java, Machine Learning",4,11.11,15.7
+J0092,Paytm,Frontend Developer,Chennai,"SQL, Node.js, AWS, Docker",1,4.25,13.37
+J0093,Jio,DevOps Engineer,Bangalore,"Data Analysis, Power BI, Tableau, Node.js",10,21.91,29.78
+J0094,Infosys,Frontend Developer,Delhi,"SQL, Power BI, Data Analysis",9,15.81,23.36
+J0095,SAP,Full Stack Developer,Bangalore,"React, Docker, Python",5,11.7,19.43
+J0096,Google,DevOps Engineer,Pune,"Machine Learning, Tableau",7,14.48,16.48
+J0097,Paytm,Backend Engineer,Hyderabad,"Deep Learning, Python, Node.js, AWS, JavaScript, Machine Learning",2,8.08,16.59
+J0098,Tech Mahindra,Full Stack Developer,Hyderabad,"C++, Kubernetes, Java, Deep Learning, Docker",5,8.86,15.05
+J0099,HCL,DevOps Engineer,Bangalore,"Data Analysis, SQL, JavaScript, Deep Learning",4,11.86,15.16
+J0100,Accenture,Frontend Developer,Hyderabad,"AWS, Deep Learning, Data Analysis",7,13.86,20.05
+J0101,Oracle,Frontend Developer,Mumbai,"Tableau, Kubernetes, Machine Learning",7,13.67,19.36
+J0102,TCS,ML Engineer,Bangalore,"SQL, Java, Node.js",5,9.14,13.98
+J0103,Infosys,Full Stack Developer,Pune,"Power BI, Java, Node.js",2,5.8,8.46
+J0104,Amazon,DevOps Engineer,Bangalore,"Tableau, Python",7,12.56,19.58
+J0105,Flipkart,Software Developer,Pune,"JavaScript, Deep Learning, Machine Learning, C++, Tableau, React",9,14.45,21.25
+J0106,Oracle,Data Analyst,Bangalore,"Docker, Node.js",10,15.75,22.47
+J0107,Microsoft,DevOps Engineer,Hyderabad,"SQL, JavaScript, React, Tableau",10,19.17,21.7
+J0108,TCS,Data Analyst,Pune,"React, Python, Java",8,14.58,20.68
+J0109,Google,Full Stack Developer,Pune,"Machine Learning, Deep Learning",7,13.36,16.7
+J0110,Flipkart,Frontend Developer,Mumbai,"AWS, JavaScript, Kubernetes, SQL",6,10.95,17.42
+J0111,Accenture,Backend Engineer,Bangalore,"AWS, React, Tableau, JavaScript",9,19.63,29.56
+J0112,Capgemini,Cloud Engineer,Bangalore,"Machine Learning, Docker",4,9.85,16.51
+J0113,Swiggy,Cloud Engineer,Mumbai,"Deep Learning, Data Analysis, React, Power BI",4,8.96,15.55
+J0114,Swiggy,DevOps Engineer,Bangalore,"Machine Learning, JavaScript, C++",1,4.93,10.35
+J0115,Capgemini,Backend Engineer,Delhi,"Power BI, SQL",2,7.32,15.88
+J0116,Cognizant,Full Stack Developer,Pune,"Kubernetes, Machine Learning",3,6.59,11.16
+J0117,Google,ML Engineer,Hyderabad,"Power BI, SQL, Tableau, Docker, Kubernetes",4,9.71,12.99
+J0118,TCS,Frontend Developer,Bangalore,"Data Analysis, C++, Docker, Deep Learning, Java",3,6.66,13.86
+J0119,IBM,Cloud Engineer,Chennai,"Node.js, Docker, Deep Learning",6,11.62,16.09
+J0120,Flipkart,Backend Engineer,Hyderabad,"AWS, Machine Learning, Deep Learning, SQL",3,5.89,15.42
+J0121,Freshworks,ML Engineer,Mumbai,"Node.js, Docker, Tableau, Python, Java",8,17.3,22.77
+J0122,TCS,Full Stack Developer,Bangalore,"JavaScript, Python, Kubernetes",1,4.72,8.26
+J0123,Tech Mahindra,Software Developer,Bangalore,"AWS, Machine Learning, Docker, Data Analysis, SQL",7,17.04,26.26
+J0124,IBM,Full Stack Developer,Bangalore,"Node.js, Docker, Data Analysis, Power BI, Deep Learning, Kubernetes",3,6.82,15.98
+J0125,Cognizant,Data Analyst,Mumbai,"Python, Java, Kubernetes",3,7.38,9.98
+J0126,Deloitte,Full Stack Developer,Pune,"AWS, Docker, Deep Learning, Data Analysis, Tableau, JavaScript",6,12.31,19.06
+J0127,Tech Mahindra,Full Stack Developer,Pune,"Deep Learning, JavaScript, Docker, SQL",8,17.72,24.1
+J0128,Deloitte,Data Analyst,Mumbai,"Docker, C++",1,4.83,8.52
+J0129,IBM,Data Analyst,Pune,"Power BI, JavaScript, Java",0,3.21,6.87
+J0130,Accenture,Data Analyst,Delhi,"Tableau, C++, Docker",5,12.73,19.02
+J0131,Wipro,ML Engineer,Bangalore,"Machine Learning, Kubernetes, React, Data Analysis",10,21.3,29.7
+J0132,Google,Data Analyst,Bangalore,"Node.js, Kubernetes, JavaScript",3,10.01,15.99
+J0133,HCL,ML Engineer,Pune,"Tableau, React",9,18.48,28.18
+J0134,SAP,Backend Engineer,Hyderabad,"JavaScript, Python, Docker",5,9.96,16.16
+J0135,Byju's,Full Stack Developer,Pune,"Machine Learning, JavaScript, Power BI, Data Analysis, Kubernetes",4,9.3,18.08
+J0136,Oracle,DevOps Engineer,Hyderabad,"C++, React, JavaScript, Power BI, Kubernetes",5,12.4,16.52
+J0137,Mindtree,DevOps Engineer,Bangalore,"AWS, C++, Deep Learning",0,4.84,8.55
+J0138,Tech Mahindra,Software Developer,Bangalore,"Java, AWS, SQL, Tableau",8,14.81,24.68
+J0139,Cognizant,Software Developer,Bangalore,"Tableau, Power BI, Java",6,14.61,21.16
+J0140,Deloitte,Frontend Developer,Pune,"Machine Learning, JavaScript, Python",3,7.3,11.5
+J0141,Freshworks,Full Stack Developer,Pune,"Tableau, Node.js, Machine Learning",9,18.59,24.69
+J0142,Flipkart,Full Stack Developer,Pune,"Java, SQL",10,13.98,17.95
+J0143,Capgemini,Data Analyst,Bangalore,"Power BI, Machine Learning, Node.js, SQL, Docker",6,11.31,19.13
+J0144,Oracle,Data Analyst,Pune,"SQL, Node.js, Tableau, Python, Power BI, Deep Learning",6,10.97,19.97
+J0145,IBM,Frontend Developer,Bangalore,"C++, Data Analysis, SQL",6,14.39,16.51
+J0146,Virtusa,Backend Engineer,Hyderabad,"Python, Data Analysis, Power BI, SQL, Docker, React",7,14.6,18.99
+J0147,Swiggy,Software Developer,Bangalore,"Java, AWS, Data Analysis",0,3.0,12.94
+J0148,Capgemini,Full Stack Developer,Delhi,"JavaScript, React, AWS",1,4.35,13.41
+J0149,IBM,Backend Engineer,Hyderabad,"Docker, Deep Learning",6,12.77,16.24
+J0150,Accenture,ML Engineer,Delhi,"Tableau, Python",0,3.0,7.95
+J0151,Flipkart,Frontend Developer,Bangalore,"Docker, Tableau",1,3.89,11.17
+J0152,Infosys,Full Stack Developer,Bangalore,"Power BI, C++",8,18.35,28.13
+J0153,HCL,DevOps Engineer,Pune,"Node.js, Java, React, Machine Learning, JavaScript",8,11.93,15.87
+J0154,Accenture,Full Stack Developer,Mumbai,"AWS, Java",0,4.99,9.13
+J0155,Wipro,Cloud Engineer,Bangalore,"JavaScript, React",10,16.72,23.79
+J0156,TCS,Frontend Developer,Mumbai,"React, SQL",4,8.53,16.92
+J0157,Freshworks,Frontend Developer,Bangalore,"Node.js, Docker, React",7,12.76,16.32
+J0158,Deloitte,Cloud Engineer,Pune,"Java, Machine Learning, Tableau, JavaScript, Kubernetes",3,7.65,10.28
+J0159,SAP,Cloud Engineer,Bangalore,"JavaScript, AWS",5,13.17,18.78
+J0160,Infosys,Frontend Developer,Bangalore,"Data Analysis, Deep Learning, Power BI, SQL",5,10.99,18.79
+J0161,Zomato,Software Developer,Bangalore,"React, Java, Node.js",0,3.0,11.0
+J0162,Flipkart,ML Engineer,Pune,"SQL, Kubernetes",0,4.8,14.62
+J0163,Tech Mahindra,DevOps Engineer,Bangalore,"SQL, React, Java",0,3.89,10.59
+J0164,Virtusa,DevOps Engineer,Delhi,"React, AWS, Node.js, Tableau",9,16.32,22.28
+J0165,Amazon,DevOps Engineer,Pune,"Data Analysis, Machine Learning, React, Java, Tableau, C++",2,4.52,8.92
+J0166,HCL,DevOps Engineer,Bangalore,"AWS, Docker, Tableau, Power BI, Data Analysis, Machine Learning",9,15.95,21.8
+J0167,Flipkart,Full Stack Developer,Bangalore,"Kubernetes, Deep Learning",10,18.31,22.07
+J0168,Infosys,Full Stack Developer,Bangalore,"C++, React",4,10.34,15.81
+J0169,Paytm,Frontend Developer,Hyderabad,"React, Docker",7,10.86,15.59
+J0170,Microsoft,Frontend Developer,Hyderabad,"Python, React",6,10.78,17.93
+J0171,HCL,Full Stack Developer,Bangalore,"AWS, Java, Docker, Node.js",10,22.56,25.26
+J0172,Accenture,Frontend Developer,Bangalore,"Python, Deep Learning, Java",5,11.72,16.29
+J0173,TCS,Backend Engineer,Mumbai,"Deep Learning, Python, Power BI, Node.js, React",2,7.48,14.1
+J0174,Microsoft,Frontend Developer,Bangalore,"SQL, AWS, Kubernetes, Java, Python, Deep Learning",4,8.25,14.21
+J0175,Infosys,DevOps Engineer,Hyderabad,"C++, SQL",3,7.97,15.22
+J0176,Mindtree,Frontend Developer,Bangalore,"Data Analysis, Java, AWS",8,18.53,24.73
+J0177,Oracle,Data Analyst,Delhi,"Deep Learning, JavaScript, AWS, Node.js, React, Data Analysis",4,9.45,15.84
+J0178,TCS,Frontend Developer,Hyderabad,"SQL, Java, Python, Machine Learning",8,16.69,23.9
+J0179,Byju's,ML Engineer,Hyderabad,"Java, Python, Node.js, Data Analysis, Machine Learning, AWS",1,5.78,11.96
+J0180,IBM,Backend Engineer,Mumbai,"Docker, JavaScript, Deep Learning, C++, Node.js, Java",5,12.26,21.37
+J0181,TCS,Full Stack Developer,Hyderabad,"Node.js, Java, Deep Learning, C++, Power BI, Kubernetes",1,6.02,8.85
+J0182,Wipro,Software Developer,Hyderabad,"Java, Tableau, Deep Learning, Docker, Kubernetes",10,16.02,22.11
+J0183,Tech Mahindra,Data Analyst,Hyderabad,"React, Machine Learning, Tableau, Node.js, Deep Learning",5,11.84,14.71
+J0184,Accenture,Backend Engineer,Delhi,"Machine Learning, Node.js, C++, JavaScript",8,12.51,19.68
+J0185,Google,Data Analyst,Bangalore,"React, Kubernetes",1,5.01,11.69
+J0186,Accenture,Backend Engineer,Hyderabad,"JavaScript, Java, Docker",9,17.3,25.97
+J0187,Deloitte,Full Stack Developer,Hyderabad,"Kubernetes, Python, Data Analysis",3,6.78,13.23
+J0188,Swiggy,Data Analyst,Bangalore,"C++, Machine Learning, Python, Power BI, JavaScript, SQL",3,8.46,10.91
+J0189,Deloitte,Data Analyst,Pune,"Data Analysis, AWS, Python, Power BI, React, SQL",1,4.38,7.78
+J0190,Cognizant,Cloud Engineer,Bangalore,"Data Analysis, JavaScript, Node.js, Docker",2,6.54,9.76
+J0191,Accenture,Cloud Engineer,Hyderabad,"Deep Learning, React, Java, Power BI, Machine Learning",1,4.13,10.24
+J0192,Capgemini,Data Analyst,Bangalore,"Power BI, Deep Learning, Docker, SQL, Data Analysis",6,13.41,17.81
+J0193,Tech Mahindra,Frontend Developer,Bangalore,"Data Analysis, Node.js, AWS, Kubernetes, Python, JavaScript",6,12.87,16.71
+J0194,Cognizant,Frontend Developer,Hyderabad,"SQL, Machine Learning, Power BI, Deep Learning, C++",7,11.9,18.86
+J0195,Freshworks,Cloud Engineer,Pune,"Docker, Power BI, Deep Learning",9,16.85,21.05
+J0196,Freshworks,DevOps Engineer,Bangalore,"Data Analysis, Java, React, JavaScript, Power BI",1,4.55,9.87
+J0197,SAP,DevOps Engineer,Mumbai,"Power BI, Deep Learning",6,12.1,21.08
+J0198,Wipro,Frontend Developer,Chennai,"C++, Kubernetes, Tableau",6,11.6,16.97
+J0199,Byju's,Backend Engineer,Bangalore,"Machine Learning, AWS, SQL, Python, Java, JavaScript",1,4.33,6.53
+J0200,Tech Mahindra,Backend Engineer,Mumbai,"SQL, AWS, React, Java, JavaScript",9,14.4,24.13
+J0201,Wipro,Frontend Developer,Bangalore,"Kubernetes, React, Tableau, SQL",1,3.75,13.18
+J0202,Capgemini,Backend Engineer,Bangalore,"JavaScript, AWS, Power BI, Tableau, Machine Learning",10,16.23,22.61
+J0203,Freshworks,Frontend Developer,Pune,"AWS, Python, React, JavaScript, Node.js, Machine Learning",8,18.28,23.5
+J0204,Wipro,DevOps Engineer,Hyderabad,"React, Docker, Kubernetes, Power BI, Deep Learning",1,4.64,10.83
+J0205,Mindtree,Full Stack Developer,Hyderabad,"AWS, JavaScript, Machine Learning, Python, Kubernetes, Deep Learning",10,19.74,22.93
+J0206,Swiggy,DevOps Engineer,Hyderabad,"Python, Java, SQL, JavaScript, Node.js, Tableau",6,12.05,17.17
+J0207,Zomato,Backend Engineer,Mumbai,"C++, Node.js",0,4.22,9.81
+J0208,Zomato,Backend Engineer,Delhi,"AWS, Power BI, Machine Learning, Docker",3,8.08,12.1
+J0209,Accenture,DevOps Engineer,Bangalore,"Java, Deep Learning",4,9.93,14.33
+J0210,Google,Software Developer,Delhi,"C++, Node.js, React, SQL, Data Analysis",3,7.29,11.32
+J0211,Accenture,ML Engineer,Mumbai,"Deep Learning, Power BI, AWS",2,7.61,13.45
+J0212,Oracle,Full Stack Developer,Hyderabad,"Python, Docker, Java, AWS, Data Analysis",7,16.34,20.39
+J0213,TCS,Cloud Engineer,Bangalore,"Kubernetes, Python, Power BI, Node.js",2,7.12,13.17
+J0214,SAP,DevOps Engineer,Pune,"AWS, C++, Python, Tableau, Data Analysis",10,21.57,30.58
+J0215,Capgemini,Backend Engineer,Bangalore,"JavaScript, Machine Learning, Java, SQL",8,12.04,21.06
+J0216,Zomato,DevOps Engineer,Mumbai,"Node.js, SQL, JavaScript, Deep Learning",6,15.05,22.41
+J0217,Flipkart,Cloud Engineer,Pune,"C++, Machine Learning, JavaScript, Java, Python, SQL",9,14.78,17.19
+J0218,Paytm,Software Developer,Bangalore,"Java, C++, React, Node.js",0,3.38,9.91
+J0219,Virtusa,DevOps Engineer,Bangalore,"Deep Learning, Data Analysis, Java, Power BI, Node.js, React",8,13.44,19.36
+J0220,Freshworks,Full Stack Developer,Mumbai,"Docker, Data Analysis",2,6.97,15.36
+J0221,Swiggy,Frontend Developer,Chennai,"Deep Learning, Machine Learning",5,11.3,13.85
+J0222,Mindtree,Cloud Engineer,Bangalore,"Machine Learning, Tableau, Deep Learning, Data Analysis",9,19.06,26.75
+J0223,Capgemini,Software Developer,Bangalore,"Java, AWS",8,14.01,22.2
+J0224,IBM,Data Analyst,Delhi,"SQL, Data Analysis, Machine Learning, Node.js",0,3.0,10.24
+J0225,Oracle,Backend Engineer,Bangalore,"Tableau, Power BI, Java, Machine Learning, AWS",9,15.88,25.38
+J0226,Cognizant,DevOps Engineer,Pune,"C++, Deep Learning",7,10.98,15.16
+J0227,Cognizant,Full Stack Developer,Bangalore,"Data Analysis, Java, Kubernetes, Node.js, C++, React",4,8.89,11.54
+J0228,Jio,Backend Engineer,Bangalore,"Python, React, Tableau, Power BI, JavaScript, Machine Learning",1,4.28,13.57
+J0229,Microsoft,DevOps Engineer,Hyderabad,"Machine Learning, AWS, Node.js, Data Analysis, React",9,17.08,19.19
+J0230,Microsoft,Frontend Developer,Bangalore,"Data Analysis, React, SQL, Java, AWS, Node.js",6,11.61,21.58
+J0231,SAP,DevOps Engineer,Mumbai,"Kubernetes, Java, Docker, Node.js, Deep Learning, JavaScript",7,14.88,20.02
+J0232,Accenture,Backend Engineer,Pune,"Deep Learning, Kubernetes, SQL, Data Analysis",1,5.48,12.99
+J0233,Accenture,Software Developer,Bangalore,"Kubernetes, Node.js",2,7.83,14.53
+J0234,Swiggy,Data Analyst,Delhi,"Power BI, Docker, SQL, Machine Learning, AWS, Tableau",2,6.4,15.4
+J0235,Zomato,DevOps Engineer,Pune,"Tableau, Node.js, C++, Data Analysis",8,17.18,22.46
+J0236,Paytm,Backend Engineer,Mumbai,"C++, Tableau",9,19.11,24.85
+J0237,Virtusa,DevOps Engineer,Mumbai,"Data Analysis, AWS, Node.js, Machine Learning",2,6.52,15.53
+J0238,HCL,ML Engineer,Pune,"React, Data Analysis",4,9.59,14.54
+J0239,Flipkart,Full Stack Developer,Bangalore,"Power BI, Machine Learning, JavaScript, Data Analysis",2,6.39,15.08
+J0240,TCS,Data Analyst,Pune,"Power BI, Node.js",9,16.33,25.26
+J0241,Microsoft,Cloud Engineer,Bangalore,"Java, Data Analysis",9,17.87,21.16
+J0242,Byju's,DevOps Engineer,Mumbai,"Java, Kubernetes, Node.js, C++",9,19.19,27.33
+J0243,TCS,DevOps Engineer,Bangalore,"Kubernetes, Machine Learning, Node.js",0,3.0,9.96
+J0244,Tech Mahindra,DevOps Engineer,Bangalore,"Machine Learning, Node.js, Deep Learning",8,15.33,24.16
+J0245,Accenture,Frontend Developer,Pune,"Docker, Java, Node.js, C++",3,8.15,12.07
+J0246,Byju's,Frontend Developer,Pune,"SQL, Machine Learning, Kubernetes, Node.js, Tableau, JavaScript",4,9.58,16.88
+J0247,Flipkart,Data Analyst,Bangalore,"C++, SQL, Tableau, Python",6,12.47,20.56
+J0248,Swiggy,DevOps Engineer,Pune,"Java, Python, Kubernetes, Deep Learning, Docker, SQL",5,10.21,12.73
+J0249,Capgemini,Software Developer,Pune,"Deep Learning, Power BI",9,19.37,28.92
+J0250,Deloitte,Full Stack Developer,Bangalore,"Java, C++, Machine Learning, Tableau",9,16.75,20.99
+J0251,IBM,Backend Engineer,Delhi,"Tableau, C++, Deep Learning, Node.js, JavaScript, Python",8,13.14,22.39
+J0252,Swiggy,Backend Engineer,Hyderabad,"Machine Learning, Python, Power BI",5,9.82,13.72
+J0253,Accenture,Backend Engineer,Bangalore,"AWS, Kubernetes",9,15.61,22.47
+J0254,Wipro,Backend Engineer,Delhi,"JavaScript, Power BI, Java",3,6.99,11.11
+J0255,Paytm,Data Analyst,Pune,"Tableau, React, C++, Node.js, SQL",10,19.39,25.49
+J0256,SAP,DevOps Engineer,Mumbai,"SQL, AWS, Machine Learning, Power BI, C++",4,10.36,19.58
+J0257,Tech Mahindra,ML Engineer,Chennai,"Power BI, React, Machine Learning, AWS, Java",10,15.15,24.44
+J0258,SAP,Data Analyst,Bangalore,"Power BI, Java",3,6.21,14.88
+J0259,Paytm,Data Analyst,Hyderabad,"React, Power BI",0,4.0,9.44
+J0260,Accenture,Full Stack Developer,Pune,"Docker, Deep Learning, JavaScript",0,3.0,8.95
+J0261,Cognizant,Cloud Engineer,Bangalore,"Python, Docker, Power BI, Tableau, Deep Learning, Java",6,12.49,22.03
+J0262,Infosys,Cloud Engineer,Hyderabad,"Power BI, C++",9,15.75,24.43
+J0263,Virtusa,Frontend Developer,Hyderabad,"C++, SQL, Deep Learning",2,6.5,15.51
+J0264,Microsoft,ML Engineer,Bangalore,"JavaScript, AWS, C++, SQL",2,5.73,12.44
+J0265,Amazon,Full Stack Developer,Bangalore,"Deep Learning, Data Analysis, AWS, Node.js, Docker",10,15.55,25.25
+J0266,IBM,DevOps Engineer,Hyderabad,"Java, C++, Machine Learning, Deep Learning",5,12.5,22.36
+J0267,Swiggy,ML Engineer,Bangalore,"Kubernetes, Data Analysis",6,12.84,15.04
+J0268,Paytm,DevOps Engineer,Hyderabad,"Data Analysis, C++, Deep Learning",8,13.14,21.71
+J0269,Freshworks,Backend Engineer,Pune,"Node.js, Kubernetes, Deep Learning, JavaScript, React",10,18.25,27.41
+J0270,Oracle,Backend Engineer,Bangalore,"Node.js, Power BI, C++, Kubernetes, React, Machine Learning",4,9.8,13.0
+J0271,Flipkart,ML Engineer,Bangalore,"Java, Python, Docker, JavaScript, Kubernetes",6,9.49,13.89
+J0272,Accenture,Frontend Developer,Pune,"Tableau, Machine Learning, Docker, React, Node.js, Python",2,5.48,8.66
+J0273,HCL,Backend Engineer,Pune,"Node.js, Data Analysis, Java, React",5,10.38,12.81
+J0274,Capgemini,Cloud Engineer,Bangalore,"Machine Learning, React, Tableau",1,5.53,12.23
+J0275,Virtusa,Data Analyst,Bangalore,"Python, React",7,13.36,17.39
+J0276,HCL,Backend Engineer,Hyderabad,"C++, AWS, Kubernetes, React",8,13.53,17.24
+J0277,Accenture,ML Engineer,Bangalore,"JavaScript, Kubernetes, C++, Docker, Data Analysis",3,6.8,8.98
+J0278,SAP,DevOps Engineer,Delhi,"Power BI, Data Analysis, Machine Learning, SQL, Kubernetes, Node.js",9,20.82,26.6
+J0279,TCS,Software Developer,Mumbai,"Tableau, React, C++, Data Analysis",7,13.59,23.2
+J0280,Zomato,Frontend Developer,Pune,"Python, JavaScript, Node.js, SQL, Deep Learning",1,5.6,8.65
+J0281,Deloitte,Data Analyst,Bangalore,"React, Kubernetes, Node.js, C++, Tableau, Python",7,14.39,18.25
+J0282,Byju's,Data Analyst,Delhi,"Python, AWS, JavaScript, Java, Node.js, Power BI",8,16.67,19.85
+J0283,Accenture,DevOps Engineer,Pune,"Machine Learning, Python, SQL, AWS",5,10.84,19.93
+J0284,Amazon,Backend Engineer,Hyderabad,"JavaScript, React, Data Analysis, Tableau",0,3.39,6.65
+J0285,Deloitte,Software Developer,Bangalore,"Data Analysis, React, AWS, Kubernetes, Python, Node.js",10,17.02,20.38
+J0286,Accenture,Data Analyst,Bangalore,"Tableau, Machine Learning, SQL, React, Kubernetes",10,18.4,27.97
+J0287,Capgemini,Backend Engineer,Chennai,"Python, Tableau, Power BI",4,10.24,13.73
+J0288,HCL,Frontend Developer,Delhi,"Tableau, Deep Learning, Power BI, Node.js",2,5.17,8.19
+J0289,Microsoft,Data Analyst,Hyderabad,"C++, Deep Learning",6,13.52,21.68
+J0290,TCS,Backend Engineer,Hyderabad,"JavaScript, Data Analysis",10,16.33,24.17
+J0291,IBM,Cloud Engineer,Bangalore,"JavaScript, SQL",0,4.77,14.23
+J0292,Swiggy,Software Developer,Bangalore,"Data Analysis, Power BI, Node.js, JavaScript, Java, Machine Learning",9,15.04,19.22
+J0293,Capgemini,DevOps Engineer,Hyderabad,"Java, React",2,5.54,9.13
+J0294,Swiggy,Software Developer,Bangalore,"Machine Learning, SQL, Docker, Data Analysis, C++",0,3.0,10.8
+J0295,HCL,Backend Engineer,Bangalore,"JavaScript, React, Data Analysis, Deep Learning, AWS",3,7.86,17.71
+J0296,Microsoft,Full Stack Developer,Delhi,"Data Analysis, JavaScript, Deep Learning, SQL",4,8.83,15.73
+J0297,Paytm,Data Analyst,Hyderabad,"Deep Learning, SQL, Tableau",3,7.77,11.92
+J0298,Zomato,DevOps Engineer,Hyderabad,"Python, Machine Learning, C++",7,11.78,20.83
+J0299,Cognizant,Cloud Engineer,Mumbai,"AWS, SQL, React",3,8.97,14.88
+J0300,Jio,Backend Engineer,Bangalore,"Deep Learning, AWS, Machine Learning, Java",8,13.39,18.72
+J0301,Zomato,Full Stack Developer,Hyderabad,"C++, React, Node.js",8,14.85,22.31
+J0302,SAP,ML Engineer,Bangalore,"C++, SQL, JavaScript, Node.js, Java",2,6.85,14.48
+J0303,HCL,Data Analyst,Bangalore,"Machine Learning, SQL, Java, AWS, Tableau, Power BI",10,19.2,24.12
+J0304,Jio,Software Developer,Bangalore,"Java, JavaScript, Python, AWS, Machine Learning",3,7.85,13.44
+J0305,Microsoft,DevOps Engineer,Hyderabad,"JavaScript, SQL, Docker, Tableau",8,17.68,26.22
+J0306,Flipkart,Cloud Engineer,Bangalore,"Java, Node.js, Docker",1,6.03,8.83
+J0307,Microsoft,Backend Engineer,Delhi,"AWS, JavaScript",4,8.36,14.23
+J0308,Mindtree,DevOps Engineer,Bangalore,"Machine Learning, Node.js",6,10.39,19.29
+J0309,Tech Mahindra,ML Engineer,Bangalore,"JavaScript, C++, Node.js",6,9.9,19.79
+J0310,Oracle,Full Stack Developer,Bangalore,"Kubernetes, AWS, Docker, Node.js, SQL, Python",3,7.19,13.68
+J0311,TCS,Data Analyst,Pune,"C++, SQL",6,10.82,15.51
+J0312,HCL,DevOps Engineer,Delhi,"JavaScript, C++, SQL, Docker, Data Analysis, Power BI",0,3.0,10.16
+J0313,Paytm,Full Stack Developer,Hyderabad,"Node.js, SQL, C++, Deep Learning, JavaScript",10,14.06,24.05
+J0314,Oracle,ML Engineer,Bangalore,"Data Analysis, C++, React",9,14.88,22.69
+J0315,Virtusa,Software Developer,Hyderabad,"JavaScript, Deep Learning, Python, SQL, Java, Docker",0,3.17,9.63
+J0316,Google,Backend Engineer,Delhi,"Tableau, Deep Learning, C++, Java",3,7.18,12.38
+J0317,Capgemini,Data Analyst,Delhi,"Java, React, AWS",9,18.71,24.03
+J0318,Wipro,Frontend Developer,Bangalore,"Node.js, React, Python, Java, JavaScript",9,16.99,22.9
+J0319,Paytm,Data Analyst,Pune,"Kubernetes, React",5,11.92,21.0
+J0320,Infosys,ML Engineer,Mumbai,"Tableau, C++, AWS, SQL, Python",3,8.21,11.09
+J0321,Capgemini,Backend Engineer,Hyderabad,"Docker, Power BI, Java",9,15.04,17.38
+J0322,Mindtree,Cloud Engineer,Bangalore,"JavaScript, Data Analysis",5,9.96,13.35
+J0323,SAP,Software Developer,Pune,"AWS, Deep Learning, React, Docker, JavaScript",6,11.32,20.16
+J0324,Deloitte,Cloud Engineer,Bangalore,"React, AWS, Python, Power BI",1,4.7,9.4
+J0325,SAP,Data Analyst,Bangalore,"Data Analysis, Machine Learning, Kubernetes, AWS, SQL, JavaScript",7,14.49,24.26
+J0326,SAP,Frontend Developer,Bangalore,"Node.js, Tableau, C++",7,14.59,18.38
+J0327,Mindtree,DevOps Engineer,Hyderabad,"AWS, Python, C++, Kubernetes",1,5.71,10.43
+J0328,Amazon,Backend Engineer,Hyderabad,"C++, Deep Learning, SQL, Power BI",6,13.45,19.05
+J0329,Zomato,Frontend Developer,Bangalore,"Power BI, Machine Learning, Tableau, Docker",4,10.69,20.32
+J0330,Amazon,DevOps Engineer,Hyderabad,"Power BI, Machine Learning, React, Data Analysis",6,13.53,21.62
+J0331,Jio,Cloud Engineer,Delhi,"JavaScript, C++, Python, Kubernetes",4,11.28,14.25
+J0332,Deloitte,Backend Engineer,Bangalore,"SQL, Node.js, Data Analysis, AWS, Kubernetes, React",8,13.06,15.74
+J0333,Capgemini,Software Developer,Bangalore,"AWS, Machine Learning",10,14.86,20.82
+J0334,Byju's,Frontend Developer,Bangalore,"Docker, JavaScript, Kubernetes",4,10.23,18.02
+J0335,Infosys,Software Developer,Hyderabad,"AWS, JavaScript, SQL, Tableau",2,5.85,15.43
+J0336,Swiggy,Backend Engineer,Mumbai,"C++, JavaScript",5,10.67,14.67
+J0337,Infosys,DevOps Engineer,Bangalore,"AWS, JavaScript",4,10.18,15.5
+J0338,IBM,Frontend Developer,Bangalore,"Machine Learning, Tableau, Python, Data Analysis",3,7.99,17.68
+J0339,SAP,Frontend Developer,Bangalore,"Power BI, JavaScript, Data Analysis, Docker",0,4.28,8.4
+J0340,Capgemini,Full Stack Developer,Mumbai,"Deep Learning, JavaScript",5,10.95,19.64
+J0341,Paytm,Cloud Engineer,Mumbai,"Kubernetes, SQL, JavaScript, C++, Python",1,6.27,13.35
+J0342,Amazon,DevOps Engineer,Delhi,"Data Analysis, Machine Learning, Tableau",2,6.84,15.68
+J0343,Deloitte,Frontend Developer,Bangalore,"Power BI, SQL, JavaScript, Data Analysis, Kubernetes",8,13.48,22.91
+J0344,IBM,Frontend Developer,Bangalore,"Node.js, Machine Learning, React, Kubernetes, Java, C++",1,4.47,13.02
+J0345,Deloitte,Software Developer,Delhi,"Docker, C++, JavaScript, Data Analysis, SQL",7,10.29,12.86
+J0346,Jio,Software Developer,Mumbai,"Java, Node.js, Data Analysis, Tableau, SQL, Power BI",0,3.26,12.69
+J0347,Zomato,Cloud Engineer,Mumbai,"Docker, Machine Learning, Deep Learning, React",6,11.31,13.49
+J0348,Byju's,Data Analyst,Chennai,"AWS, Node.js, Tableau, Power BI, Python",8,15.74,20.94
+J0349,HCL,Cloud Engineer,Bangalore,"SQL, Data Analysis, Java, Kubernetes, JavaScript",5,11.92,21.02
+J0350,Deloitte,Data Analyst,Delhi,"Kubernetes, Docker, Power BI",6,11.29,13.42
+J0351,Jio,Software Developer,Delhi,"Java, Node.js, Machine Learning, Python, AWS",9,15.8,25.41
+J0352,IBM,Backend Engineer,Bangalore,"SQL, Python",4,10.96,20.95
+J0353,Paytm,Cloud Engineer,Bangalore,"Kubernetes, SQL, JavaScript, Power BI",4,11.64,15.36
+J0354,Swiggy,Data Analyst,Bangalore,"SQL, Deep Learning",5,12.01,19.51
+J0355,Mindtree,Software Developer,Bangalore,"Docker, Java, Power BI",0,4.24,14.18
+J0356,Capgemini,ML Engineer,Hyderabad,"C++, Machine Learning, Tableau",1,4.18,11.12
+J0357,Freshworks,Full Stack Developer,Pune,"Deep Learning, Python, Data Analysis, AWS",8,13.91,17.5
+J0358,Capgemini,Backend Engineer,Pune,"SQL, Python",4,10.44,12.92
+J0359,Jio,Software Developer,Bangalore,"SQL, C++, Tableau, Power BI, AWS, Python",6,12.68,16.06
+J0360,Tech Mahindra,Full Stack Developer,Hyderabad,"Python, SQL, JavaScript, Node.js, AWS",7,15.03,19.71
+J0361,Accenture,DevOps Engineer,Hyderabad,"JavaScript, Tableau, Kubernetes, Machine Learning, AWS, Data Analysis",3,8.59,15.0
+J0362,Capgemini,Full Stack Developer,Pune,"Machine Learning, Python, Java",6,10.08,13.27
+J0363,Byju's,Full Stack Developer,Mumbai,"Docker, Deep Learning, Tableau",3,8.52,15.31
+J0364,Swiggy,Software Developer,Bangalore,"AWS, JavaScript, Tableau, Machine Learning, SQL",0,3.68,8.75
+J0365,Virtusa,Backend Engineer,Bangalore,"Machine Learning, JavaScript, Node.js, Data Analysis",8,13.31,17.33
+J0366,Deloitte,Software Developer,Bangalore,"Node.js, Tableau, Power BI, Java, Python",9,18.93,21.41
+J0367,Infosys,ML Engineer,Bangalore,"Kubernetes, Node.js",4,8.13,16.09
+J0368,SAP,Software Developer,Pune,"Machine Learning, Power BI",5,9.44,14.7
+J0369,Capgemini,Software Developer,Pune,"Power BI, React",1,5.54,12.53
+J0370,Jio,Full Stack Developer,Hyderabad,"JavaScript, Python, Java, React, Docker",7,15.63,23.78
+J0371,Jio,Backend Engineer,Bangalore,"Power BI, Deep Learning, Docker, Node.js",5,13.39,16.71
+J0372,Oracle,Cloud Engineer,Bangalore,"Machine Learning, Java, React",1,5.8,13.52
+J0373,SAP,ML Engineer,Mumbai,"Deep Learning, Tableau, Data Analysis, Java, JavaScript",3,8.63,18.12
+J0374,Paytm,Frontend Developer,Pune,"SQL, Tableau, Machine Learning, AWS, Node.js",5,13.17,19.24
+J0375,Capgemini,Cloud Engineer,Hyderabad,"Deep Learning, Docker, Data Analysis, Machine Learning, Tableau, JavaScript",5,12.96,20.08
+J0376,TCS,Data Analyst,Bangalore,"Kubernetes, React, Power BI, Data Analysis, Node.js, SQL",2,4.72,6.8
+J0377,Accenture,Software Developer,Bangalore,"C++, SQL, Machine Learning",4,11.53,14.74
+J0378,Accenture,Frontend Developer,Bangalore,"React, Data Analysis, C++, Deep Learning, Tableau",9,13.26,16.54
+J0379,IBM,Backend Engineer,Pune,"Data Analysis, Node.js, SQL, Python, Kubernetes",6,11.53,19.25
+J0380,Wipro,Software Developer,Pune,"Tableau, Deep Learning",8,13.53,21.44
+J0381,Google,Backend Engineer,Bangalore,"Kubernetes, Machine Learning, Python, Java",8,15.4,25.33
+J0382,Cognizant,Full Stack Developer,Pune,"Node.js, Java, Machine Learning, Kubernetes, Docker",2,7.11,9.65
+J0383,HCL,Full Stack Developer,Pune,"AWS, Power BI, Machine Learning, JavaScript",3,7.81,12.03
+J0384,Cognizant,Backend Engineer,Pune,"Node.js, Tableau, Docker",3,8.1,11.38
+J0385,Capgemini,Data Analyst,Bangalore,"Python, Machine Learning, Tableau, SQL, C++, Power BI",2,7.24,16.77
+J0386,Wipro,Cloud Engineer,Bangalore,"Data Analysis, Node.js, Kubernetes, Docker",3,7.35,13.91
+J0387,Oracle,Software Developer,Hyderabad,"Machine Learning, Deep Learning, Tableau",3,6.78,12.22
+J0388,Paytm,Cloud Engineer,Bangalore,"Tableau, C++, Kubernetes",6,11.81,14.85
+J0389,Zomato,DevOps Engineer,Hyderabad,"Kubernetes, Docker, Java, SQL",6,12.88,21.18
+J0390,Jio,ML Engineer,Hyderabad,"Tableau, SQL, Kubernetes, Power BI, Java",1,5.34,8.14
+J0391,HCL,Data Analyst,Pune,"SQL, AWS",0,3.0,5.78
+J0392,Amazon,Cloud Engineer,Bangalore,"Docker, React, Python, C++, JavaScript, Machine Learning",0,4.01,13.87
+J0393,Tech Mahindra,ML Engineer,Mumbai,"Tableau, Power BI",3,8.27,17.67
+J0394,HCL,ML Engineer,Hyderabad,"Docker, Kubernetes",9,19.96,25.21
+J0395,Swiggy,Software Developer,Bangalore,"Kubernetes, Python, Docker, Deep Learning, SQL",10,20.82,30.1
+J0396,Flipkart,ML Engineer,Bangalore,"Machine Learning, Python, Tableau, React",0,3.0,5.65
+J0397,Capgemini,Full Stack Developer,Hyderabad,"React, Data Analysis, Python",1,5.74,11.38
+J0398,Paytm,Backend Engineer,Delhi,"Tableau, Deep Learning, React, Machine Learning, Python, C++",9,18.31,27.8
+J0399,Flipkart,Backend Engineer,Bangalore,"Power BI, Kubernetes, Deep Learning, Python, React, SQL",0,3.0,10.6
+J0400,TCS,Software Developer,Bangalore,"AWS, Java, JavaScript, Deep Learning, Python, SQL",3,7.46,10.34
+J0401,HCL,Data Analyst,Bangalore,"C++, Machine Learning, React, Node.js, AWS, JavaScript",3,8.16,14.96
+J0402,Cognizant,DevOps Engineer,Bangalore,"Python, Data Analysis",2,5.87,10.57
+J0403,TCS,DevOps Engineer,Pune,"Docker, AWS",2,6.56,15.1
+J0404,Byju's,Frontend Developer,Pune,"Deep Learning, Java, Node.js, Power BI, Data Analysis",10,21.87,27.21
+J0405,Freshworks,Cloud Engineer,Bangalore,"AWS, SQL",2,7.79,11.61
+J0406,HCL,Full Stack Developer,Bangalore,"C++, React, Node.js, Python",4,11.07,18.0
+J0407,HCL,DevOps Engineer,Delhi,"Kubernetes, Python",10,22.11,26.07
+J0408,Wipro,Data Analyst,Bangalore,"Kubernetes, Python, Data Analysis, Tableau, C++, Deep Learning",5,8.6,18.44
+J0409,TCS,Cloud Engineer,Hyderabad,"AWS, Java, JavaScript",9,15.71,24.56
+J0410,Capgemini,DevOps Engineer,Bangalore,"Kubernetes, Machine Learning, C++, JavaScript",1,5.28,7.9
+J0411,IBM,Full Stack Developer,Bangalore,"Machine Learning, SQL, Power BI, Tableau, Deep Learning",10,16.68,22.0
+J0412,Virtusa,ML Engineer,Mumbai,"Deep Learning, Power BI, React, C++, AWS",9,12.86,16.78
+J0413,HCL,ML Engineer,Bangalore,"Data Analysis, Docker, JavaScript, Machine Learning",3,6.6,9.38
+J0414,TCS,Cloud Engineer,Bangalore,"Deep Learning, Docker, Tableau, SQL",7,16.22,19.27
+J0415,Cognizant,Frontend Developer,Bangalore,"Deep Learning, Kubernetes, AWS, JavaScript, SQL",2,7.92,12.55
+J0416,Microsoft,Frontend Developer,Hyderabad,"C++, JavaScript, Deep Learning, Docker, Power BI, SQL",1,3.61,6.7
+J0417,Zomato,Software Developer,Bangalore,"C++, Deep Learning",10,18.2,27.22
+J0418,TCS,ML Engineer,Mumbai,"Python, AWS",0,3.0,10.43
+J0419,TCS,ML Engineer,Hyderabad,"Kubernetes, Node.js, JavaScript, SQL",8,14.76,23.65
+J0420,TCS,Full Stack Developer,Bangalore,"Node.js, AWS, Python, Power BI, Deep Learning, Tableau",4,10.77,18.08
+J0421,Flipkart,Data Analyst,Chennai,"Node.js, Java, Machine Learning",3,7.71,13.14
+J0422,Infosys,Cloud Engineer,Bangalore,"Python, Docker, Data Analysis, React",2,6.77,16.34
+J0423,Infosys,Cloud Engineer,Mumbai,"Data Analysis, Power BI, Kubernetes, C++",1,6.06,8.1
+J0424,Byju's,DevOps Engineer,Mumbai,"Node.js, Tableau, Power BI, Deep Learning, Python, SQL",6,11.12,17.45
+J0425,Swiggy,ML Engineer,Mumbai,"Tableau, Docker, AWS, Node.js",2,6.86,13.09
+J0426,HCL,Frontend Developer,Chennai,"Node.js, AWS, Deep Learning",9,18.73,28.56
+J0427,SAP,ML Engineer,Bangalore,"JavaScript, Data Analysis",5,11.05,20.04
+J0428,Byju's,ML Engineer,Bangalore,"C++, Data Analysis",8,13.72,17.11
+J0429,IBM,Cloud Engineer,Bangalore,"Kubernetes, Node.js, Python, Power BI",7,15.18,23.64
+J0430,Freshworks,Data Analyst,Hyderabad,"Machine Learning, JavaScript, Data Analysis, Power BI",5,9.96,16.48
+J0431,SAP,Cloud Engineer,Chennai,"JavaScript, Kubernetes",2,7.43,9.67
+J0432,Infosys,Software Developer,Mumbai,"Tableau, Java, AWS, Data Analysis",4,10.49,14.39
+J0433,Microsoft,Software Developer,Delhi,"AWS, Python",6,11.34,16.2
+J0434,Freshworks,Cloud Engineer,Chennai,"C++, Node.js, Python, Kubernetes, SQL, JavaScript",10,15.0,22.85
+J0435,IBM,ML Engineer,Bangalore,"AWS, Java",2,5.81,10.03
+J0436,Oracle,Frontend Developer,Hyderabad,"Tableau, AWS, Java, C++",6,14.56,20.63
+J0437,TCS,Full Stack Developer,Bangalore,"Tableau, Kubernetes, Machine Learning",0,3.0,9.6
+J0438,Tech Mahindra,Software Developer,Hyderabad,"Machine Learning, Python",2,6.95,16.4
+J0439,Virtusa,ML Engineer,Hyderabad,"React, Python, Docker, Deep Learning, C++, Tableau",2,8.16,12.74
+J0440,Virtusa,Data Analyst,Mumbai,"Python, Machine Learning, React, Docker",5,10.9,16.13
+J0441,Accenture,Backend Engineer,Bangalore,"C++, React, SQL, Data Analysis, Docker, AWS",7,14.27,21.64
+J0442,Microsoft,DevOps Engineer,Bangalore,"C++, React, Kubernetes",0,3.0,6.69
+J0443,Deloitte,Frontend Developer,Pune,"Machine Learning, Node.js",2,5.62,9.64
+J0444,Microsoft,Cloud Engineer,Pune,"React, Kubernetes",5,8.77,17.56
+J0445,Freshworks,Data Analyst,Bangalore,"Power BI, Machine Learning, React, AWS, JavaScript",2,5.7,14.9
+J0446,Capgemini,Data Analyst,Hyderabad,"React, Python, JavaScript",4,6.82,9.72
+J0447,Google,Cloud Engineer,Bangalore,"Kubernetes, C++",1,4.52,9.93
+J0448,TCS,Frontend Developer,Mumbai,"Node.js, Tableau, Kubernetes",3,9.72,17.38
+J0449,Swiggy,DevOps Engineer,Delhi,"Data Analysis, Machine Learning, SQL, Power BI, C++",1,4.57,12.99
+J0450,SAP,Software Developer,Bangalore,"Deep Learning, SQL, Docker, Python, Kubernetes, AWS",10,20.04,28.63
+J0451,HCL,Cloud Engineer,Chennai,"JavaScript, C++, Kubernetes, Power BI",6,12.75,16.9
+J0452,HCL,Software Developer,Bangalore,"Data Analysis, Power BI, React",4,9.37,16.42
+J0453,Zomato,DevOps Engineer,Delhi,"Deep Learning, SQL, Power BI, C++",1,3.52,8.3
+J0454,Wipro,Cloud Engineer,Hyderabad,"SQL, React, Docker, Data Analysis",9,18.82,21.62
+J0455,Swiggy,Frontend Developer,Bangalore,"Kubernetes, C++, AWS, Node.js, Tableau",1,4.27,9.89
+J0456,Freshworks,ML Engineer,Hyderabad,"C++, Data Analysis, Node.js, Machine Learning, Kubernetes, Java",0,4.21,11.73
+J0457,Flipkart,DevOps Engineer,Bangalore,"React, Power BI, SQL, Data Analysis",6,11.2,17.97
+J0458,Zomato,Data Analyst,Bangalore,"Java, Kubernetes, AWS, Machine Learning, C++, Power BI",1,4.33,7.56
+J0459,Byju's,Software Developer,Pune,"SQL, Node.js, JavaScript",0,3.0,11.42
+J0460,TCS,DevOps Engineer,Bangalore,"Java, Tableau",5,11.8,16.69
+J0461,Wipro,Frontend Developer,Bangalore,"Deep Learning, Java",7,13.25,21.95
+J0462,Amazon,Full Stack Developer,Hyderabad,"Tableau, Docker, Node.js, Data Analysis, React, Java",2,6.29,14.77
+J0463,Freshworks,Backend Engineer,Bangalore,"SQL, React, Tableau, Kubernetes",4,10.54,15.85
+J0464,Microsoft,Software Developer,Bangalore,"SQL, Deep Learning",2,7.41,15.98
+J0465,Paytm,Frontend Developer,Hyderabad,"Machine Learning, AWS, Deep Learning, Node.js, JavaScript",4,8.76,18.29
+J0466,Jio,Backend Engineer,Bangalore,"Deep Learning, Data Analysis, Kubernetes",3,8.66,11.95
+J0467,Swiggy,Cloud Engineer,Pune,"Power BI, Python, Kubernetes",9,19.52,22.92
+J0468,Mindtree,ML Engineer,Hyderabad,"Node.js, React, AWS, Java, Docker",4,6.63,15.81
+J0469,Paytm,Cloud Engineer,Chennai,"C++, JavaScript",2,6.38,12.45
+J0470,Jio,DevOps Engineer,Bangalore,"Kubernetes, Docker",2,6.88,9.9
+J0471,Capgemini,Data Analyst,Bangalore,"React, Node.js, Power BI, Java",9,13.52,16.13
+J0472,Swiggy,Cloud Engineer,Hyderabad,"Node.js, Docker, JavaScript",1,4.18,9.21
+J0473,Tech Mahindra,Backend Engineer,Bangalore,"React, JavaScript",0,4.55,9.39
+J0474,Tech Mahindra,ML Engineer,Chennai,"JavaScript, AWS, Tableau, C++",2,4.99,10.78
+J0475,SAP,ML Engineer,Mumbai,"Kubernetes, Data Analysis, SQL, C++",5,11.64,13.95
+J0476,Jio,Frontend Developer,Bangalore,"SQL, C++, Docker",8,14.19,20.27
+J0477,Byju's,Full Stack Developer,Delhi,"Kubernetes, Python",6,12.39,19.73
+J0478,Infosys,Cloud Engineer,Bangalore,"AWS, Tableau",6,10.2,17.75
+J0479,Mindtree,Software Developer,Chennai,"JavaScript, Kubernetes, Node.js",5,11.06,19.65
+J0480,Zomato,DevOps Engineer,Hyderabad,"Java, Tableau, AWS, JavaScript, SQL, Machine Learning",4,8.39,16.31
+J0481,Accenture,Cloud Engineer,Bangalore,"JavaScript, SQL, Java, Power BI, Machine Learning",0,3.09,9.97
+J0482,HCL,Backend Engineer,Bangalore,"Deep Learning, Data Analysis",5,10.6,20.29
+J0483,Zomato,Backend Engineer,Pune,"Java, Docker, React, JavaScript",5,11.09,17.9
+J0484,Virtusa,Cloud Engineer,Pune,"Power BI, Python, Node.js, SQL",6,11.96,19.79
+J0485,Oracle,Data Analyst,Bangalore,"Tableau, Docker, Machine Learning",6,11.29,19.53
+J0486,Swiggy,DevOps Engineer,Mumbai,"C++, Java",2,6.66,13.65
+J0487,Paytm,Frontend Developer,Hyderabad,"Machine Learning, C++, JavaScript",9,16.19,22.12
+J0488,Capgemini,Full Stack Developer,Bangalore,"Tableau, Java, Deep Learning, AWS, JavaScript",2,6.15,10.65
+J0489,Mindtree,Full Stack Developer,Bangalore,"Docker, Tableau",10,19.25,28.36
+J0490,Paytm,Full Stack Developer,Mumbai,"Node.js, SQL",3,6.76,15.32
+J0491,IBM,DevOps Engineer,Hyderabad,"Python, Node.js, Deep Learning",4,7.73,12.93
+J0492,Deloitte,Full Stack Developer,Bangalore,"C++, Machine Learning, React, AWS, Docker, Java",6,13.97,23.72
+J0493,Amazon,Cloud Engineer,Hyderabad,"Machine Learning, AWS, Tableau, Power BI",7,13.05,17.23
+J0494,Flipkart,Software Developer,Chennai,"AWS, JavaScript, SQL, C++, Data Analysis, Tableau",6,13.01,19.92
+J0495,Tech Mahindra,Software Developer,Delhi,"C++, Machine Learning, Node.js, SQL",1,3.7,11.21
+J0496,Amazon,Frontend Developer,Pune,"Machine Learning, SQL, React, Deep Learning",7,14.53,17.73
+J0497,SAP,Full Stack Developer,Bangalore,"Tableau, Data Analysis, AWS, Kubernetes, Node.js",4,11.6,20.52
+J0498,Jio,Full Stack Developer,Bangalore,"JavaScript, Power BI",0,4.37,6.88
+J0499,SAP,Cloud Engineer,Chennai,"Python, Docker, Data Analysis, React, JavaScript",6,13.09,19.47
+J0500,IBM,Data Analyst,Hyderabad,"Node.js, Data Analysis, AWS, Power BI, Deep Learning",3,7.58,15.9
+J0501,Oracle,Data Analyst,Bangalore,"AWS, Deep Learning, C++, React",9,17.79,24.86
+J0502,Tech Mahindra,Full Stack Developer,Hyderabad,"AWS, Node.js, C++, Kubernetes",7,12.58,21.07
+J0503,Google,Frontend Developer,Hyderabad,"Kubernetes, Power BI",7,16.93,26.54
+J0504,Virtusa,Cloud Engineer,Hyderabad,"Docker, Python, Deep Learning, Tableau, Node.js, SQL",8,15.2,22.91
+J0505,Oracle,Data Analyst,Hyderabad,"Data Analysis, Power BI, Docker, SQL",6,12.02,16.09
+J0506,Amazon,Full Stack Developer,Chennai,"C++, React, Docker, Power BI, Java, Data Analysis",7,12.97,18.59
+J0507,Flipkart,Full Stack Developer,Pune,"Data Analysis, Java, React, Power BI",7,15.23,18.19
+J0508,Accenture,DevOps Engineer,Bangalore,"Deep Learning, C++, Python, Data Analysis, Power BI, Docker",8,16.51,23.32
+J0509,HCL,Full Stack Developer,Bangalore,"Python, Java, JavaScript, Data Analysis, Power BI",1,5.08,12.18
+J0510,Accenture,DevOps Engineer,Bangalore,"JavaScript, Deep Learning",1,4.01,6.36
+J0511,Wipro,Backend Engineer,Bangalore,"Java, Tableau, Deep Learning, JavaScript, SQL",10,14.21,20.73
+J0512,Infosys,Frontend Developer,Pune,"Deep Learning, Power BI, Data Analysis, Tableau, Node.js, Python",1,3.23,12.05
+J0513,Amazon,Full Stack Developer,Bangalore,"Deep Learning, Kubernetes",1,6.29,11.77
+J0514,Mindtree,Data Analyst,Hyderabad,"Tableau, JavaScript, Data Analysis, React, Node.js, Docker",10,18.32,24.77
+J0515,IBM,Software Developer,Hyderabad,"JavaScript, AWS, C++, SQL",10,18.13,20.63
+J0516,Byju's,ML Engineer,Bangalore,"JavaScript, Node.js, SQL, C++, Tableau",8,15.08,20.94
+J0517,Amazon,Data Analyst,Hyderabad,"JavaScript, Deep Learning, Docker, Data Analysis, C++",1,4.11,7.14
+J0518,Zomato,Full Stack Developer,Delhi,"Deep Learning, Node.js, React, Docker, SQL",0,3.0,9.61
+J0519,Paytm,Backend Engineer,Delhi,"Python, Node.js, Data Analysis, C++, AWS, React",4,9.27,18.29
+J0520,Wipro,Backend Engineer,Bangalore,"React, Java, Data Analysis, Machine Learning",5,11.86,18.34
+J0521,Capgemini,DevOps Engineer,Bangalore,"Java, C++, AWS, Kubernetes, Tableau, SQL",0,3.27,7.59
+J0522,TCS,Software Developer,Hyderabad,"Tableau, AWS, Docker, Deep Learning, Kubernetes, C++",4,10.56,18.81
+J0523,Capgemini,Data Analyst,Pune,"Node.js, JavaScript, Deep Learning, React",9,13.68,20.09
+J0524,Infosys,ML Engineer,Pune,"Deep Learning, Kubernetes, Tableau, Node.js",8,12.59,21.47
+J0525,Paytm,Software Developer,Bangalore,"Data Analysis, Docker, Power BI",5,9.36,14.36
+J0526,Virtusa,Software Developer,Hyderabad,"Machine Learning, C++, React, AWS",1,4.52,6.65
+J0527,Flipkart,Backend Engineer,Bangalore,"Docker, Tableau, Deep Learning, Data Analysis, SQL, Machine Learning",2,5.68,8.19
+J0528,Mindtree,Backend Engineer,Bangalore,"Java, Data Analysis, Python, Power BI, Docker",4,8.85,16.45
+J0529,TCS,DevOps Engineer,Hyderabad,"C++, AWS, SQL",7,13.04,20.28
+J0530,Capgemini,DevOps Engineer,Pune,"Java, Machine Learning, Data Analysis, Docker, AWS",10,18.7,22.19
+J0531,Mindtree,ML Engineer,Bangalore,"Python, JavaScript, SQL, Node.js, Tableau",5,11.45,17.2
+J0532,Capgemini,ML Engineer,Bangalore,"React, Kubernetes, Power BI, Tableau, Machine Learning, Java",2,5.89,10.05
+J0533,Freshworks,ML Engineer,Mumbai,"Machine Learning, C++, Data Analysis, Kubernetes, React, Docker",6,15.1,17.67
+J0534,Tech Mahindra,Software Developer,Pune,"AWS, C++, React, Deep Learning, Java",6,11.3,20.04
+J0535,Tech Mahindra,Frontend Developer,Chennai,"React, Node.js",4,9.91,18.54
+J0536,Cognizant,Backend Engineer,Pune,"SQL, Python, JavaScript, Deep Learning, C++",4,8.69,12.23
+J0537,Freshworks,Frontend Developer,Bangalore,"AWS, React, SQL, Python, Kubernetes, Power BI",9,16.67,21.84
+J0538,Byju's,Full Stack Developer,Bangalore,"React, Machine Learning",7,14.0,16.71
+J0539,Deloitte,DevOps Engineer,Hyderabad,"Machine Learning, Python, C++, JavaScript",4,10.0,14.37
+J0540,Byju's,Full Stack Developer,Hyderabad,"Deep Learning, JavaScript, React, Kubernetes, Node.js, Tableau",4,10.23,19.12
+J0541,Accenture,Full Stack Developer,Bangalore,"Kubernetes, Java",8,14.09,24.02
+J0542,Capgemini,DevOps Engineer,Hyderabad,"Java, JavaScript, Kubernetes, SQL",9,18.11,27.17
+J0543,IBM,Software Developer,Delhi,"Kubernetes, Data Analysis, Power BI, Tableau",1,4.6,11.98
+J0544,HCL,Full Stack Developer,Bangalore,"Java, Python, Data Analysis",3,8.05,17.25
+J0545,Freshworks,Frontend Developer,Hyderabad,"Power BI, Data Analysis",8,15.35,19.84
+J0546,Google,Backend Engineer,Bangalore,"Java, AWS, Python",8,13.16,19.74
+J0547,Zomato,DevOps Engineer,Delhi,"Java, Docker",2,8.07,16.12
+J0548,Byju's,DevOps Engineer,Hyderabad,"React, JavaScript, Docker, SQL, C++",2,6.2,13.68
+J0549,Deloitte,Cloud Engineer,Bangalore,"Data Analysis, Node.js, Deep Learning, AWS, React",10,16.1,21.23
+J0550,Virtusa,Frontend Developer,Hyderabad,"SQL, Kubernetes, C++, Java, Machine Learning, JavaScript",1,3.25,10.81
+J0551,SAP,Backend Engineer,Hyderabad,"Docker, AWS, Tableau, Deep Learning, JavaScript",6,13.92,19.66
+J0552,Microsoft,Software Developer,Pune,"Power BI, Node.js, Machine Learning, React, Java, Python",3,8.58,14.19
+J0553,Byju's,Full Stack Developer,Bangalore,"Deep Learning, Node.js, C++, Kubernetes",0,4.33,7.55
+J0554,Zomato,Cloud Engineer,Hyderabad,"React, Java, Deep Learning, Python, C++",7,15.44,25.33
+J0555,Microsoft,ML Engineer,Pune,"C++, Python, Kubernetes, JavaScript, React, SQL",0,3.0,10.04
+J0556,Oracle,Software Developer,Bangalore,"Power BI, Python, Kubernetes, JavaScript, Tableau, Deep Learning",9,17.63,22.99
+J0557,Oracle,Data Analyst,Bangalore,"Python, Deep Learning, Tableau, JavaScript, Data Analysis",8,15.28,17.91
+J0558,Paytm,Frontend Developer,Pune,"Tableau, Python, Deep Learning, AWS, Kubernetes, Data Analysis",9,12.27,18.58
+J0559,TCS,Cloud Engineer,Pune,"Deep Learning, Tableau, Machine Learning, Docker, SQL",9,18.88,24.18
+J0560,Capgemini,Frontend Developer,Bangalore,"Kubernetes, Deep Learning",9,18.87,22.14
+J0561,TCS,Software Developer,Mumbai,"SQL, Node.js, Power BI",4,7.48,15.02
+J0562,Byju's,ML Engineer,Delhi,"React, SQL",8,11.25,20.79
+J0563,Infosys,Cloud Engineer,Hyderabad,"Machine Learning, Kubernetes, Deep Learning",2,7.01,10.99
+J0564,Mindtree,Cloud Engineer,Hyderabad,"Power BI, Deep Learning, Java, Kubernetes",2,7.05,14.29
+J0565,Wipro,Full Stack Developer,Hyderabad,"Python, Machine Learning, Node.js, Data Analysis, Tableau, Power BI",3,8.11,11.39
+J0566,TCS,ML Engineer,Mumbai,"Java, Deep Learning, JavaScript, SQL, Power BI, AWS",4,9.76,14.8
+J0567,Deloitte,ML Engineer,Pune,"C++, Deep Learning, Docker, Node.js, Java, Python",1,4.51,12.62
+J0568,Swiggy,Software Developer,Mumbai,"React, SQL, Power BI, AWS, Kubernetes, Tableau",9,13.69,19.21
+J0569,Tech Mahindra,Backend Engineer,Bangalore,"SQL, Power BI",5,12.09,19.21
+J0570,Infosys,Frontend Developer,Pune,"React, Kubernetes, Machine Learning",2,7.48,13.96
+J0571,Microsoft,Software Developer,Mumbai,"C++, Machine Learning",3,7.04,15.73
+J0572,HCL,ML Engineer,Bangalore,"Power BI, Deep Learning",2,5.55,13.57
+J0573,Capgemini,ML Engineer,Bangalore,"Deep Learning, Data Analysis, Power BI",1,5.88,11.69
+J0574,Deloitte,Frontend Developer,Bangalore,"Node.js, Deep Learning",5,10.53,16.02
+J0575,HCL,Full Stack Developer,Pune,"Java, Kubernetes, React, Node.js",5,8.11,16.06
+J0576,IBM,Software Developer,Bangalore,"Power BI, C++, Java, JavaScript",9,19.01,22.39
+J0577,Microsoft,Cloud Engineer,Delhi,"SQL, AWS, React, Kubernetes",8,17.49,25.98
+J0578,Swiggy,DevOps Engineer,Pune,"AWS, Tableau, Machine Learning, Data Analysis, Java, Python",9,14.48,19.1
+J0579,Virtusa,DevOps Engineer,Pune,"Docker, Kubernetes, C++",1,6.57,13.13
+J0580,Cognizant,Cloud Engineer,Hyderabad,"Machine Learning, Data Analysis, Power BI, JavaScript",4,11.23,18.56
+J0581,Cognizant,ML Engineer,Bangalore,"Docker, Tableau, Deep Learning, JavaScript, SQL, Power BI",0,4.68,8.67
+J0582,Accenture,Frontend Developer,Bangalore,"AWS, JavaScript, Python",6,10.45,12.68
+J0583,Swiggy,DevOps Engineer,Pune,"Java, AWS, Kubernetes, React, Deep Learning",3,9.16,17.51
+J0584,Infosys,Frontend Developer,Pune,"Power BI, Python, React, Deep Learning, SQL, Data Analysis",9,17.65,22.55
+J0585,Tech Mahindra,Cloud Engineer,Hyderabad,"AWS, React, Tableau, Machine Learning, SQL",4,9.42,17.51
+J0586,Infosys,Software Developer,Pune,"Java, AWS, Docker, Power BI",3,8.16,13.03
+J0587,Paytm,Full Stack Developer,Bangalore,"AWS, Kubernetes, Tableau, Deep Learning, Node.js, Machine Learning",10,19.75,24.5
+J0588,Paytm,DevOps Engineer,Hyderabad,"Deep Learning, React, Kubernetes, Tableau",1,6.0,14.1
+J0589,Accenture,DevOps Engineer,Bangalore,"Python, C++, Data Analysis, Docker",9,14.54,16.54
+J0590,Infosys,Frontend Developer,Hyderabad,"Data Analysis, JavaScript, Kubernetes, Node.js, Power BI",0,3.0,12.87
+J0591,Swiggy,Frontend Developer,Chennai,"Java, JavaScript, Kubernetes, Deep Learning, Docker, C++",1,3.83,12.16
+J0592,TCS,Backend Engineer,Bangalore,"Machine Learning, React, Data Analysis",0,4.25,8.45
+J0593,Zomato,DevOps Engineer,Pune,"Data Analysis, Power BI, Java, React",3,7.89,10.35
+J0594,Capgemini,Full Stack Developer,Mumbai,"AWS, Python, Machine Learning",4,9.02,15.76
+J0595,Tech Mahindra,Full Stack Developer,Hyderabad,"JavaScript, Power BI, SQL",10,18.16,22.46
+J0596,HCL,Frontend Developer,Delhi,"Node.js, SQL, Deep Learning",3,5.42,8.23
+J0597,Microsoft,Backend Engineer,Hyderabad,"Tableau, Data Analysis, React, Python, AWS, Java",3,7.73,10.91
+J0598,Paytm,DevOps Engineer,Bangalore,"Docker, Machine Learning, Node.js, Deep Learning, C++",0,4.56,14.56
+J0599,Capgemini,Cloud Engineer,Bangalore,"Deep Learning, C++, Data Analysis, SQL, Node.js",5,8.71,11.59
+J0600,Deloitte,DevOps Engineer,Pune,"Node.js, Data Analysis, React",2,5.98,10.38
+J0601,Infosys,Full Stack Developer,Hyderabad,"Node.js, Docker, SQL, React, AWS, Kubernetes",2,8.04,13.71
+J0602,Jio,Data Analyst,Hyderabad,"Java, Data Analysis, C++, React, Deep Learning, Machine Learning",0,3.37,6.56
+J0603,Capgemini,Software Developer,Hyderabad,"Kubernetes, Data Analysis, Node.js, SQL, Machine Learning, C++",0,3.0,8.83
+J0604,Flipkart,Backend Engineer,Bangalore,"Python, C++, JavaScript",0,4.01,7.02
+J0605,Capgemini,ML Engineer,Hyderabad,"Node.js, Machine Learning, Java, Power BI",5,10.63,17.62
+J0606,IBM,DevOps Engineer,Delhi,"Node.js, Machine Learning, AWS, Python",6,14.97,24.75
+J0607,Jio,Backend Engineer,Bangalore,"Java, Node.js, Machine Learning",10,18.99,23.71
+J0608,Oracle,DevOps Engineer,Hyderabad,"Data Analysis, SQL, React, Machine Learning, Tableau",2,6.64,9.13
+J0609,Capgemini,DevOps Engineer,Pune,"Java, React",0,4.88,10.36
+J0610,Flipkart,Data Analyst,Delhi,"Python, AWS, Machine Learning, Data Analysis, Node.js",0,3.0,11.04
+J0611,Accenture,Software Developer,Bangalore,"Node.js, JavaScript, Deep Learning, Machine Learning",8,18.14,20.71
+J0612,Microsoft,Backend Engineer,Pune,"React, Data Analysis, AWS, Deep Learning, Power BI, Docker",8,15.4,23.67
+J0613,Amazon,Backend Engineer,Hyderabad,"Node.js, Docker, Data Analysis",9,16.64,22.53
+J0614,Swiggy,ML Engineer,Bangalore,"Python, React, Deep Learning",3,8.96,18.06
+J0615,Mindtree,Software Developer,Mumbai,"Docker, Tableau, Kubernetes",4,9.53,12.71
+J0616,Paytm,Software Developer,Delhi,"Python, AWS, JavaScript, Power BI, SQL",6,12.83,21.33
+J0617,IBM,DevOps Engineer,Hyderabad,"Python, Kubernetes, Machine Learning, React",5,10.36,14.7
+J0618,Byju's,ML Engineer,Pune,"Machine Learning, JavaScript, Data Analysis, Python",8,17.06,22.16
+J0619,Infosys,Software Developer,Pune,"JavaScript, React, Node.js",5,12.84,20.01
+J0620,Accenture,Cloud Engineer,Hyderabad,"JavaScript, Machine Learning, Python, Kubernetes",4,10.32,15.18
+J0621,Amazon,Full Stack Developer,Mumbai,"Docker, Deep Learning",3,6.54,13.06
+J0622,Capgemini,Frontend Developer,Pune,"SQL, Docker, Power BI",6,11.86,19.12
+J0623,HCL,Software Developer,Mumbai,"Node.js, JavaScript, React, AWS, Kubernetes",10,17.55,23.79
+J0624,Microsoft,Data Analyst,Bangalore,"SQL, React",8,14.63,22.67
+J0625,Accenture,DevOps Engineer,Bangalore,"Kubernetes, Deep Learning, Machine Learning",8,17.53,24.13
+J0626,Amazon,Data Analyst,Hyderabad,"Deep Learning, SQL, React, Machine Learning, JavaScript, Node.js",3,5.72,10.22
+J0627,Oracle,Backend Engineer,Bangalore,"Deep Learning, JavaScript, Power BI",6,14.49,23.63
+J0628,Deloitte,Full Stack Developer,Bangalore,"SQL, Data Analysis, C++, Kubernetes, JavaScript",8,16.26,18.66
+J0629,Paytm,Full Stack Developer,Pune,"React, Kubernetes",3,6.14,11.55
+J0630,Jio,Data Analyst,Delhi,"JavaScript, Deep Learning, Tableau, Java, Power BI",6,11.11,20.52
+J0631,Flipkart,Full Stack Developer,Bangalore,"Node.js, Java, Machine Learning, JavaScript, Deep Learning, Python",4,11.28,13.78
+J0632,SAP,Frontend Developer,Bangalore,"Data Analysis, Node.js",2,7.37,10.75
+J0633,Google,Backend Engineer,Mumbai,"JavaScript, AWS, Kubernetes, Machine Learning",10,20.48,29.74
+J0634,Google,Full Stack Developer,Hyderabad,"C++, Python, Deep Learning",8,12.39,20.62
+J0635,Mindtree,Software Developer,Mumbai,"Kubernetes, JavaScript",5,8.09,13.16
+J0636,Paytm,Data Analyst,Hyderabad,"Node.js, Machine Learning, Kubernetes, React, Docker, Power BI",7,12.84,18.69
+J0637,Capgemini,Software Developer,Bangalore,"React, Power BI, Tableau, AWS",1,6.09,9.64
+J0638,Amazon,ML Engineer,Bangalore,"C++, Docker, Deep Learning, Java, Machine Learning",5,13.83,17.12
+J0639,Paytm,Cloud Engineer,Bangalore,"Python, Machine Learning, Kubernetes, SQL, Tableau",4,10.01,12.3
+J0640,Jio,Cloud Engineer,Hyderabad,"C++, Deep Learning",2,6.37,10.34
+J0641,SAP,Software Developer,Bangalore,"JavaScript, Data Analysis, React, AWS",9,18.28,25.33
+J0642,Swiggy,Frontend Developer,Bangalore,"Java, Kubernetes",10,13.88,17.37
+J0643,Byju's,Software Developer,Bangalore,"React, Kubernetes, Node.js, Data Analysis, Python, JavaScript",9,14.97,19.36
+J0644,Amazon,Backend Engineer,Pune,"Node.js, Docker, Java",6,13.04,18.6
+J0645,Cognizant,Backend Engineer,Bangalore,"Node.js, C++",0,3.63,13.44
+J0646,Flipkart,Cloud Engineer,Hyderabad,"JavaScript, Java, Tableau, Deep Learning, Node.js, Docker",7,13.72,17.14
+J0647,Google,Cloud Engineer,Hyderabad,"Node.js, Kubernetes, JavaScript",9,16.5,25.89
+J0648,Oracle,Cloud Engineer,Bangalore,"Machine Learning, Power BI",2,5.14,11.83
+J0649,Zomato,ML Engineer,Bangalore,"Docker, Power BI, Node.js, C++, Data Analysis, AWS",6,11.37,16.71
+J0650,Infosys,Cloud Engineer,Delhi,"Java, Tableau, Power BI, Node.js, JavaScript",3,9.71,13.57
+J0651,Swiggy,DevOps Engineer,Hyderabad,"Machine Learning, Java, Power BI, SQL, Node.js",5,12.21,19.6
+J0652,HCL,Frontend Developer,Bangalore,"Node.js, C++, Machine Learning, Python, Kubernetes",8,18.58,21.38
+J0653,Infosys,Cloud Engineer,Bangalore,"Kubernetes, Docker, SQL, Power BI, Deep Learning, Node.js",1,5.37,9.4
+J0654,Microsoft,Data Analyst,Bangalore,"C++, Java, Kubernetes, Machine Learning, AWS, SQL",9,14.42,22.04
+J0655,Cognizant,Frontend Developer,Hyderabad,"Power BI, Data Analysis, Machine Learning, Node.js, Docker, Tableau",10,15.8,23.87
+J0656,Virtusa,Full Stack Developer,Bangalore,"React, Deep Learning, C++, Java, AWS",6,10.48,13.84
+J0657,Cognizant,Software Developer,Bangalore,"Java, JavaScript, SQL, Python",7,14.04,23.86
+J0658,Tech Mahindra,Software Developer,Bangalore,"C++, Machine Learning, Kubernetes, AWS, Power BI",3,8.67,16.8
+J0659,HCL,Software Developer,Mumbai,"Machine Learning, SQL, Data Analysis, Kubernetes, React, Java",9,17.22,25.64
+J0660,TCS,DevOps Engineer,Hyderabad,"Python, Deep Learning",0,3.58,6.31
+J0661,Virtusa,Backend Engineer,Chennai,"AWS, Tableau, Node.js, SQL, Data Analysis, JavaScript",9,16.18,22.52
+J0662,Mindtree,Data Analyst,Mumbai,"Machine Learning, Docker, Deep Learning, Python, AWS, Power BI",2,5.95,13.48
+J0663,Microsoft,DevOps Engineer,Bangalore,"Data Analysis, Node.js, Deep Learning, Python",0,3.0,11.93
+J0664,Capgemini,ML Engineer,Bangalore,"Machine Learning, Power BI, AWS, Node.js, SQL, Tableau",6,13.29,19.88
+J0665,Flipkart,Cloud Engineer,Bangalore,"Data Analysis, Power BI, SQL, Deep Learning, Java, React",4,11.22,20.72
+J0666,Paytm,Full Stack Developer,Bangalore,"Power BI, C++, Data Analysis",10,16.32,20.58
+J0667,Wipro,Software Developer,Pune,"SQL, React, Machine Learning, Deep Learning",10,15.97,25.52
+J0668,Deloitte,Software Developer,Bangalore,"Data Analysis, C++, Power BI, JavaScript, React",6,14.2,22.73
+J0669,Swiggy,ML Engineer,Bangalore,"Data Analysis, AWS, Deep Learning, JavaScript",0,3.0,5.5
+J0670,Infosys,Full Stack Developer,Bangalore,"Python, Data Analysis, Java, Tableau, Docker, JavaScript",7,12.92,20.55
+J0671,Deloitte,Frontend Developer,Bangalore,"Kubernetes, React, Deep Learning, JavaScript",7,12.66,17.21
+J0672,Capgemini,Frontend Developer,Hyderabad,"Machine Learning, JavaScript, AWS, Deep Learning, Data Analysis, Tableau",9,17.8,24.5
+J0673,IBM,Full Stack Developer,Bangalore,"Kubernetes, JavaScript, Node.js",6,11.59,20.32
+J0674,Swiggy,ML Engineer,Chennai,"Tableau, C++",7,13.48,19.91
+J0675,Microsoft,DevOps Engineer,Mumbai,"Kubernetes, Python, JavaScript",5,10.45,19.39
+J0676,Swiggy,Cloud Engineer,Chennai,"Kubernetes, Java, React, Machine Learning, Tableau",4,9.48,18.97
+J0677,Paytm,Frontend Developer,Delhi,"React, Node.js, AWS, Machine Learning, Java, Docker",10,16.24,21.41
+J0678,Google,Full Stack Developer,Bangalore,"Power BI, Node.js, Python, Machine Learning, SQL",0,4.99,11.05
+J0679,Freshworks,Backend Engineer,Bangalore,"C++, Power BI, Java, JavaScript",4,9.14,11.94
+J0680,Swiggy,Data Analyst,Delhi,"React, AWS, Tableau",6,13.47,20.49
+J0681,Amazon,Backend Engineer,Delhi,"Power BI, C++, Deep Learning, Tableau, React, Python",6,12.65,16.39
+J0682,Byju's,Backend Engineer,Pune,"Docker, SQL, JavaScript, Power BI",9,13.49,18.0
+J0683,Jio,Full Stack Developer,Bangalore,"AWS, Kubernetes",1,5.72,9.63
+J0684,Tech Mahindra,Full Stack Developer,Hyderabad,"JavaScript, Data Analysis, Deep Learning",1,5.04,8.92
+J0685,Tech Mahindra,Data Analyst,Pune,"Deep Learning, Power BI, AWS",2,5.48,14.28
+J0686,Capgemini,ML Engineer,Mumbai,"JavaScript, Docker, Power BI, SQL, C++, Deep Learning",9,17.19,24.59
+J0687,HCL,Software Developer,Mumbai,"C++, Power BI",0,3.15,11.03
+J0688,Oracle,Backend Engineer,Bangalore,"SQL, Docker, Data Analysis, Python, React",2,5.23,10.42
+J0689,Wipro,Software Developer,Hyderabad,"AWS, SQL, Power BI",6,10.52,17.17
+J0690,Cognizant,Software Developer,Mumbai,"SQL, Docker, Kubernetes",3,8.94,14.39
+J0691,Accenture,Software Developer,Bangalore,"Kubernetes, Python, Power BI, Node.js",5,8.71,13.49
+J0692,Freshworks,Software Developer,Bangalore,"Kubernetes, Data Analysis, Machine Learning",3,6.62,10.17
+J0693,Flipkart,ML Engineer,Pune,"JavaScript, Data Analysis",3,9.4,11.57
+J0694,Jio,ML Engineer,Pune,"Machine Learning, Java, React, Docker, AWS",1,3.85,10.66
+J0695,Google,ML Engineer,Mumbai,"JavaScript, Tableau, Docker, C++",6,14.32,17.47
+J0696,Paytm,Data Analyst,Bangalore,"Docker, JavaScript, Machine Learning, AWS, SQL, Java",5,10.39,17.36
+J0697,Tech Mahindra,Frontend Developer,Bangalore,"Power BI, Docker, AWS, Data Analysis",7,15.22,19.55
+J0698,SAP,ML Engineer,Bangalore,"Data Analysis, Node.js",1,6.23,13.34
+J0699,Zomato,Cloud Engineer,Bangalore,"Power BI, Tableau",8,14.95,22.76
+J0700,Deloitte,ML Engineer,Mumbai,"Tableau, Java, C++, SQL, Data Analysis, Machine Learning",4,9.94,17.37
+J0701,SAP,ML Engineer,Mumbai,"Data Analysis, Docker, AWS, SQL",5,11.34,20.76
+J0702,Cognizant,DevOps Engineer,Bangalore,"C++, Kubernetes, Machine Learning, Java, React, Deep Learning",3,7.63,15.61
+J0703,SAP,Frontend Developer,Hyderabad,"Tableau, Java, Kubernetes",0,3.0,6.58
+J0704,Flipkart,ML Engineer,Hyderabad,"Docker, AWS, Machine Learning, Kubernetes",1,5.54,10.25
+J0705,Deloitte,Cloud Engineer,Bangalore,"Power BI, JavaScript, AWS",9,16.2,22.15
+J0706,Microsoft,Cloud Engineer,Pune,"JavaScript, React, Deep Learning",1,5.06,12.5
+J0707,Infosys,DevOps Engineer,Mumbai,"JavaScript, Node.js, Kubernetes, Tableau, Deep Learning",9,18.59,26.54
+J0708,Oracle,Frontend Developer,Bangalore,"Node.js, React",8,14.07,22.73
+J0709,Cognizant,ML Engineer,Hyderabad,"Data Analysis, JavaScript, Python, Deep Learning, C++",8,18.29,26.88
+J0710,Flipkart,DevOps Engineer,Mumbai,"Tableau, React, Python, Power BI",1,4.53,10.54
+J0711,Cognizant,Software Developer,Pune,"Docker, Power BI, Deep Learning, C++",10,21.01,23.17
+J0712,Google,Software Developer,Bangalore,"SQL, Power BI, C++, Java",3,8.16,14.89
+J0713,HCL,ML Engineer,Bangalore,"AWS, Python, Data Analysis, Machine Learning, Node.js, Power BI",9,15.37,20.35
+J0714,IBM,Cloud Engineer,Hyderabad,"Kubernetes, Node.js, Python, SQL, Data Analysis, React",7,13.04,21.54
+J0715,Mindtree,Backend Engineer,Hyderabad,"Power BI, JavaScript, SQL, AWS, Java",9,13.51,20.46
+J0716,Capgemini,ML Engineer,Delhi,"Data Analysis, Deep Learning, Node.js, Java",8,18.75,25.82
+J0717,Swiggy,ML Engineer,Hyderabad,"C++, Docker, SQL, AWS, Power BI, React",1,5.41,10.86
+J0718,Wipro,Cloud Engineer,Pune,"Docker, Tableau, JavaScript, Deep Learning, Python, Java",10,21.74,29.34
+J0719,Cognizant,Frontend Developer,Mumbai,"Power BI, Data Analysis, AWS, Deep Learning",1,4.14,7.98
+J0720,Google,Full Stack Developer,Pune,"AWS, C++, Power BI, React",2,7.28,12.25
+J0721,Capgemini,Backend Engineer,Pune,"JavaScript, Kubernetes, Deep Learning, Python",3,8.12,14.64
+J0722,Jio,Data Analyst,Bangalore,"Node.js, Power BI, Data Analysis, AWS, Python",0,3.0,11.72
+J0723,Google,Software Developer,Hyderabad,"React, Python, Kubernetes, Node.js, Tableau, Docker",3,5.8,15.14
+J0724,Mindtree,Backend Engineer,Bangalore,"Kubernetes, React, Machine Learning, SQL",4,9.94,15.75
+J0725,Jio,Backend Engineer,Delhi,"SQL, Docker, Data Analysis, Power BI, Tableau, Java",4,10.81,19.77
+J0726,SAP,DevOps Engineer,Bangalore,"Power BI, AWS, Kubernetes, Machine Learning, C++, SQL",1,5.3,11.78
+J0727,Oracle,Cloud Engineer,Bangalore,"AWS, Power BI, Deep Learning, Java",7,13.43,23.1
+J0728,Swiggy,Cloud Engineer,Pune,"Java, Machine Learning",1,5.61,10.77
+J0729,Infosys,DevOps Engineer,Mumbai,"Docker, Data Analysis, Deep Learning, Tableau, Node.js",4,11.22,15.04
+J0730,HCL,Cloud Engineer,Pune,"JavaScript, Python, Kubernetes, Node.js, Tableau, Machine Learning",4,10.06,18.45
+J0731,Google,Software Developer,Hyderabad,"Java, JavaScript, C++, Kubernetes, Machine Learning",6,13.78,17.16
+J0732,Microsoft,Frontend Developer,Bangalore,"Data Analysis, Tableau, Kubernetes",6,13.19,19.4
+J0733,Deloitte,Frontend Developer,Delhi,"Data Analysis, Java, C++",7,15.03,19.92
+J0734,Freshworks,Data Analyst,Bangalore,"Python, Docker",7,14.14,22.88
+J0735,Google,Cloud Engineer,Hyderabad,"Docker, React, SQL",10,17.92,22.59
+J0736,Deloitte,Frontend Developer,Mumbai,"Machine Learning, C++, Tableau",4,8.72,14.15
+J0737,Capgemini,Software Developer,Hyderabad,"JavaScript, C++, Tableau, React, Python",7,12.82,21.74
+J0738,Infosys,Software Developer,Bangalore,"Tableau, Node.js",0,3.59,11.06
+J0739,Zomato,DevOps Engineer,Pune,"Node.js, Python, AWS",2,6.85,14.15
+J0740,Swiggy,Backend Engineer,Bangalore,"C++, Data Analysis, Node.js",6,12.72,22.14
+J0741,Swiggy,Backend Engineer,Hyderabad,"Java, Docker",4,11.1,15.07
+J0742,Paytm,Cloud Engineer,Hyderabad,"Data Analysis, C++, SQL",10,13.75,23.19
+J0743,Jio,Cloud Engineer,Mumbai,"Node.js, C++, Tableau, SQL",10,18.77,22.36
+J0744,Infosys,DevOps Engineer,Hyderabad,"JavaScript, Docker, SQL, AWS, Python",10,20.42,22.8
+J0745,Deloitte,Backend Engineer,Bangalore,"Node.js, Tableau, SQL, React, Deep Learning",1,6.66,16.45
+J0746,Oracle,DevOps Engineer,Pune,"Tableau, Machine Learning, JavaScript, C++, SQL",2,8.42,15.79
+J0747,TCS,Frontend Developer,Bangalore,"Python, JavaScript, Deep Learning, Machine Learning, React",2,6.21,12.59
+J0748,Capgemini,Frontend Developer,Hyderabad,"Java, Kubernetes, Python",8,14.24,18.67
+J0749,TCS,Data Analyst,Bangalore,"Deep Learning, AWS, Data Analysis",4,9.99,15.04
+J0750,Freshworks,DevOps Engineer,Mumbai,"Data Analysis, C++, Deep Learning, Machine Learning, JavaScript, React",9,17.48,19.9
