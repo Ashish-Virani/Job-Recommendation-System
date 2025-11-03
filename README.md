@@ -7,6 +7,32 @@ real-time Job Recommendation System built using **Streamlit** and **Python**, wh
 ✅ Real-time Job Filtering & Ranking  
 
 This project helps job seekers find suitable job opportunities efficiently using a rule-based recommendation model.
+## 🧠 Machine Learning Approach
+
+This project implements a **Content-Based Recommendation System** using:
+
+### ✅ Cosine Similarity (Scikit-Learn)
+- Converts candidate skills & job required skills into numerical vectors using `CountVectorizer`
+- Measures closeness between skills using `cosine_similarity`
+- Ranks job recommendations by highest similarity score
+
+### ✅ Why Cosine Similarity?
+| Feature | Benefit |
+|--------|---------|
+| Handles partial skill overlaps | Better job fit |
+| Vector-based comparison | ML powered approach |
+| Scales well with large datasets | Production ready |
+| Used by modern job platforms | LinkedIn, Indeed, Naukri |
+
+---
+
+### 🔍 Algorithm Workflow
+
+1️⃣ Convert all skills into lowercase text  
+2️⃣ Transform skills into vector form using **Bag-of-Words (CountVectorizer)**  
+3️⃣ Apply **Cosine Similarity** to compute how close user skills match job skills  
+4️⃣ Filter by experience & salary criteria  
+5️⃣ Sort jobs by similarity score (higher = better match)
 
 ---
 
